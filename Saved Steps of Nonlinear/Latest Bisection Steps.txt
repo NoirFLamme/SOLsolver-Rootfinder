@@ -1,0 +1,88 @@
+Function has same sign at end points, Please enter a valid Interval.
+   Iteration:1
+New Root: -1.0
+New F(root): -3.8414710
+New error: 1.0 > 0.0001
+
+   Iteration:2
+New Root: 1.0
+New F(root): 3.8414710
+New error: 2.0 > 0.0001
+
+   Iteration:3
+New Root: 0.0
+New F(root): 0
+New error: 1.0 > 0.0001
+
+   Iteration:4
+New Root: 0.5
+New F(root): 1.9794255
+New error: 0.5 > 0.0001
+
+   Iteration:5
+New Root: 0.25
+New F(root): 0.99740396
+New error: 0.25 > 0.0001
+
+   Iteration:6
+New Root: 0.125
+New F(root): 0.49967473
+New error: 0.125 > 0.0001
+
+   Iteration:7
+New Root: 0.0625
+New F(root): 0.24995932
+New error: 0.0625 > 0.0001
+
+   Iteration:8
+New Root: 0.03125
+New F(root): 0.12499491
+New error: 0.03125 > 0.0001
+
+   Iteration:9
+New Root: 0.015625
+New F(root): 0.062499364
+New error: 0.015625 > 0.0001
+
+   Iteration:10
+New Root: 0.0078125
+New F(root): 0.031249921
+New error: 0.0078125 > 0.0001
+
+   Iteration:11
+New Root: 0.00390625
+New F(root): 0.015624990
+New error: 0.00390625 > 0.0001
+
+   Iteration:12
+New Root: 0.001953125
+New F(root): 0.0078124988
+New error: 0.001953125 > 0.0001
+
+   Iteration:13
+New Root: 0.0009765625
+New F(root): 0.0039062498
+New error: 0.0009765625 > 0.0001
+
+   Iteration:14
+New Root: 0.00048828125
+New F(root): 0.0019531250
+New error: 0.00048828125 > 0.0001
+
+   Iteration:15
+New Root: 0.00024414062
+New F(root): 0.00097656248
+New error: 0.00024414063 > 0.0001
+
+   Iteration:16
+New Root: 0.00012207031
+New F(root): 0.00048828124
+New error: 0.00012207031 > 0.0001
+
+   Iteration:17
+New Root: 6.1035155e-05
+New F(root): 0.00024414062
+New error: 6.1035155e-05 > 0.0001
+
+
+Root is: 6.1035155e-05

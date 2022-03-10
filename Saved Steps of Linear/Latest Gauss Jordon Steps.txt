@@ -1,0 +1,36 @@
+Forward Elimination: 
+After pivoting row 1
+1.0 1.0
+1.0 0.0
+
+
+After pivoting row 2
+1.0 1.0
+1.0 -1.0
+
+
+Removing the lower triangle 
+1.0 1.0
+0 -1.0
+
+
+Backward Elimination:
+Row 2
+1.0 1.0
+0 -1.0
+
+
+Row 1
+1.0 1.0
+0 -1.0
+
+
+Removing the upper  
+1.0 0
+0 -1.0
+
+
+Solution:
+2.0
+1.0
+

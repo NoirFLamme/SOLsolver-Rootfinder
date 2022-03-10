@@ -1,0 +1,11 @@
+After pivoting row 1
+1.0
+
+
+Removing the lower triangle
+1.0
+
+
+Solution:
+1.0
+

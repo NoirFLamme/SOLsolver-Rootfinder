@@ -1,0 +1,92 @@
+Coefficient Matrix:
+15.0 82.0 0.0
+10.0 0.0 23.0
+3.0 4.0 0.0
+
+
+Free Terms Vector:
+150.0
+26.0
+31.0
+
+Initial Guess Vector:
+0
+0
+0
+
+Pivoted Coefficient Matrix:
+3.0 4.0 0.0
+15.0 82.0 0.0
+10.0 0.0 23.0
+
+
+Pivoted Free Terms Vector:
+31.0
+150.0
+26.0
+
+Iteration number:1
+10.3333
+1.8293
+1.1304
+
+Iteration number:2
+7.8943
+-0.061
+-3.3623
+
+Iteration number:3
+10.4147
+0.3852
+-2.3019
+
+Iteration number:4
+9.8197
+-0.0759
+-3.3977
+
+Iteration number:5
+10.4345
+0.033
+-3.139
+
+Iteration number:6
+10.2893
+-0.0795
+-3.4063
+
+Iteration number:7
+10.4393
+-0.0529
+-3.3432
+
+Iteration number:8
+10.4039
+-0.0804
+-3.4084
+
+Iteration number:9
+10.4405
+-0.0739
+-3.393
+
+Iteration number:10
+10.4319
+-0.0806
+-3.4089
+
+Iteration number:11
+10.4408
+-0.079
+-3.4052
+
+Iteration number:12
+10.4387
+-0.0806
+-3.409
+
+Iteration number:13
+10.4408
+-0.0803
+-3.4081
+

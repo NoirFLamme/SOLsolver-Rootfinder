@@ -1,0 +1,63 @@
+
+   Iteration:1
+New Root: 0.500000000000000
+New F(root): -0.750000000000000
+New error: 0.500000000000000 > 1e-05
+
+   Iteration:2
+New Root: 0.800000000000000
+New F(root): -0.360000000000000
+New error: 0.300000000000000 > 1e-05
+
+   Iteration:3
+New Root: 0.928571428571429
+New F(root): -0.137755102040815
+New error: 0.128571428571429 > 1e-05
+
+   Iteration:4
+New Root: 0.975609756097561
+New F(root): -0.0481856038072577
+New error: 0.0470383275261319 > 1e-05
+
+   Iteration:5
+New Root: 0.991803278688525
+New F(root): -0.0163262563826919
+New error: 0.0161935225909641 > 1e-05
+
+   Iteration:6
+New Root: 0.997260273972603
+New F(root): -0.00547194595608891
+New error: 0.00545699528407795 > 1e-05
+
+   Iteration:7
+New Root: 0.999085923217550
+New F(root): -0.00182731802853586
+New error: 0.00182564924494699 > 1e-05
+
+   Iteration:8
+New Root: 0.999695214873514
+New F(root): -0.000609477358998745
+New error: 0.000609291655964017 > 1e-05
+
+   Iteration:9
+New Root: 0.999898394635237
+New F(root): -0.000203200405875847
+New error: 0.000203179761723016 > 1e-05
+
+   Iteration:10
+New Root: 0.999966130397968
+New F(root): -6.77380569140684e-5
+New error: 6.77357627310027e-5 > 1e-05
+
+   Iteration:11
+New Root: 0.999988710005194
+New F(root): -2.25798621481532e-5
+New error: 2.25796072259588e-5 > 1e-05
+
+   Iteration:12
+New Root: 0.999996236654235
+New F(root): -7.52667736725332e-6
+New error: 7.52664904102307e-6 > 1e-05
+
+
+Root is: 0.999996236654235
